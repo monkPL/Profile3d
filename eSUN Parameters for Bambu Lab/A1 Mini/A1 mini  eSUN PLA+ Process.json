@@ -1,0 +1,15 @@
+{
+    "elefant_foot_compensation": "0.15",
+    "from": "User",
+    "inherits": "0.20mm Standard @BBL A1M",
+    "initial_layer_infill_speed": "50",
+    "inner_wall_speed": "250",
+    "is_custom_defined": "0",
+    "name": "A1 mini  eSUN PLA+ Process",
+    "print_settings_id": "A1 mini  eSUN PLA+ Process",
+    "sparse_infill_speed": "250",
+    "top_shell_layers": "3",
+    "top_shell_thickness": "0.6",
+    "tree_support_wall_count": "1",
+    "version": "1.7.0.29"
+}

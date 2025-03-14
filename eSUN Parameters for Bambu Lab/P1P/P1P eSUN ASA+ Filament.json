@@ -1,0 +1,31 @@
+{
+    "fan_max_speed": [
+        "30"
+    ],
+    "filament_flow_ratio": [
+        "0.98"
+    ],
+    "filament_max_volumetric_speed": [
+        "22"
+    ],
+    "filament_settings_id": [
+        "P1P eSUN ASA+ Filament"
+    ],
+    "filament_start_gcode": [
+        "; Filament gcode\n"
+    ],
+    "from": "User",
+    "inherits": "Bambu ABS @BBL P1P",
+    "is_custom_defined": "0",
+    "name": "P1P eSUN ASA+ Filament",
+    "nozzle_temperature": [
+        "260"
+    ],
+    "reduce_fan_stop_start_freq": [
+        "1"
+    ],
+    "slow_down_for_layer_cooling": [
+        "0"
+    ],
+    "version": "1.6.0.3"
+}

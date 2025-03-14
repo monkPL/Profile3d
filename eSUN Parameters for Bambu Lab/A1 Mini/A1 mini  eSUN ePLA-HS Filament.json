@@ -1,0 +1,16 @@
+{
+    "filament_max_volumetric_speed": [
+        "22"
+    ],
+    "filament_settings_id": [
+        "A1 mini  eSUN ePLA+HS Filament"
+    ],
+    "from": "User",
+    "inherits": "eSUN PLA+ @BBL A1M",
+    "is_custom_defined": "0",
+    "name": "A1 mini  eSUN ePLA+HS Filament",
+    "slow_down_for_layer_cooling": [
+        "0"
+    ],
+    "version": "1.8.0.13"
+}

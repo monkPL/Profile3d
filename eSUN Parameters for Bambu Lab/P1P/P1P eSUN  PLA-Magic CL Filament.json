@@ -1,0 +1,16 @@
+{
+    "filament_max_volumetric_speed": [
+        "16"
+    ],
+    "filament_settings_id": [
+        "P1P eSUN  PLA-Magic CL Filament"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA @BBL P1P",
+    "is_custom_defined": "0",
+    "name": "P1P eSUN  PLA-Magic CL Filament",
+    "slow_down_for_layer_cooling": [
+        "0"
+    ],
+    "version": "1.9.0.21"
+}
